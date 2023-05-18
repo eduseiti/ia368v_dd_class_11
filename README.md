@@ -14,7 +14,7 @@ This implementation was based on the [neuralmind-ai/visconde](https://github.com
 |:---:|:---: |:---: |:---: |:---: |:---:|
 | dev | 10 | 3 | 0.5 | 0.5971 | 20.49 |
 | test | 10 | 3 | 0.1 | 0.1667 | 19.45 |
-| test | 10 | 5 | 0.4 | 0.5467 | 19.45 |
+| test | 10 | 5 | 0.4 | 0.5467 | 21.92 |
 
 <br/>
 
