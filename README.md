@@ -10,6 +10,12 @@ This implementation was based on the [neuralmind-ai/visconde](https://github.com
 
 ## Final results
 
+| dataset | # questions | k aggregation | exact match score | f1 score | duration (s) |
+|:---:|:---: |:---: |:---: |:---: |:---:|
+| dev | 10 | 3 | 0.5 | 0.5971 | 20.49 |
+| test | 10 | 3 | 0.1 | 0.1667 | 19.45 |
+| test | 10 | 5 | 0.4 | 0.5467 | 19.45 |
+
 <br/>
 
 Check [here a presentation](https://docs.google.com/presentation/d/1ZxC38VyndG-eRamZNw0tCwX5BOYA2Hc_3FrXmm2tDj8/edit?usp=share_link) commenting this exercise resolution.
